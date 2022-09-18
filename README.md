@@ -1,0 +1,1 @@
+This is a repo containing all the OSSU Computer Science related courseworks, resources and etc. It records my progression on the online degree.
